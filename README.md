@@ -1,6 +1,7 @@
 # Data Science Consistent, Effective & Efficient Plots for Scientific Papers
 
-## Data used for this tutorial is Windermere fish abundances from 1940-2012 © NERC - Centre for Ecology & Hydrology/ Freshwater Biological Association (FBA). The data was initially downloaded from [here](https://catalogue.ceh.ac.uk/documents/f3f3ba40-c655-4740-b9b4-ce77ab286fb0)
+## Data used for this tutorial is Windermere fish abundances from 1940-2012. The data was initially downloaded from [here](https://catalogue.ceh.ac.uk/documents/f3f3ba40-c655-4740-b9b4-ce77ab286fb0)
+#### © NERC - Centre for Ecology & Hydrology/ Freshwater Biological Association (FBA)
 
 You can check out the full tutorial online here: 
 
