@@ -3,7 +3,7 @@
 ## Data used for this tutorial is Windermere fish abundances from 1940-2012. The data was initially downloaded from [here](https://catalogue.ceh.ac.uk/documents/f3f3ba40-c655-4740-b9b4-ce77ab286fb0)
 #### © NERC - Centre for Ecology & Hydrology/ Freshwater Biological Association (FBA)
 
-You can check out the full tutorial online here: 
+You can check out the full tutorial online here: https://eddatascienceees.github.io/tutorial-emmagemal/
 
 If you have any questions about completing this tutorial, please contact us on ourcodingclub@gmail.com
 Check out https://ourcodingclub.github.io/workshop/ to learn how you can get involved!
